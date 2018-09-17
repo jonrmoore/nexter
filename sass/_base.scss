@@ -31,7 +31,7 @@ body {
   font-family: $font-primary;
   color: $color-grey-dark-2;
   font-weight: 300;
-  line-height: 1.6rem;
+  line-height: 2rem; // It should be 1.6rem but something seems to be getting in the way. Quick fix, needs review.
 }
 
 .container {
